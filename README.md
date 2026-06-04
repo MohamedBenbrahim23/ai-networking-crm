@@ -125,7 +125,7 @@ Shows the environment variable needed to run the AI features locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-networking-crm.git
+git clone https://github.com/MohamedBenbrahim23/ai-networking-crm.git
 cd ai-networking-crm
 ```
 
